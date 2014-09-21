@@ -1,13 +1,5 @@
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
  Copyright (C) 2014 RemindUS <http://git.io/i8mG4w>
 
-We do not express any warranty, implied or explict.  Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed. 
+  All content does not express any warranty, implied or explict.  All content is contributed will be given legal premission to RemindUS, http://git.io/i8mG4w?, to do whatever he/she chooses.  We reserve the legal right to amend, or completely modify our license without any justification or warning.   Each folder shall contain a seperate 'LICENSE' which applies purely to that section or folder. 
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+  If any section or folder does not contain a 'LICENSE' you may NOT redistribute and/or modify the content without the approval of the current repository managers approval.
